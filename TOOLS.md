@@ -24,13 +24,18 @@ http://www.functionize.
 
 http://www.mabl.com
 
-http://www.prodperfect.com - autonomous E2E software testing tool, collect data from production, generates tests and executes them
+http://www.prodperfect.com - autonomous E2E software testing tool, collects data from production, generates tests, and executes them
 
 http://www.sealights.io - DevOps, more focused on code, not very clear and specific on their website
 
 https://appsurify.com/
 
 https://www.launchableinc.com/
+
+https://www.testaify.com - autonomous testing for AI web app discovery, AI functional test case generation, AI test execution, and reporting on findings
+- five-min set up
+- free plan for testing twice a month 
+- includes regression testing and test replay 
 
 http://www.testcraft.io - features: recording tests, AI auto-fix for a flaky test, modeler for design tests
 
